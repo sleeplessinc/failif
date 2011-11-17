@@ -1,7 +1,7 @@
 {
   "name": "failif",
   "version": "1.0.0",
-  "description" : "xxx",
+  "description" : "Respect for the uncaught exception handler.",
   "author": "Joe Hitchens <joe@sleepless.com> (sleepless.com)",
   "license": {
     "type": "MIT",
