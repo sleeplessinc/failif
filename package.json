@@ -1,0 +1,17 @@
+{
+  "name": "failif",
+  "version": "1.0.0",
+  "description" : "xxx",
+  "author": "Joe Hitchens <joe@sleepless.com> (sleepless.com)",
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/sleeplessinc/failif/raw/master/LICENSE"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://sleeplessinc@github.com/sleeplessinc/failif.git"
+    }
+  ],
+  "repository": "git://github.com/sleeplessinc/failif.git"
+}
